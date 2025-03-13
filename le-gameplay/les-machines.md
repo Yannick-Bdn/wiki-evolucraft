@@ -12,7 +12,7 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 
 <mark style="color:green;">**Machine à bois**</mark>**&#x20;:**
 
-* Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois.
+* Exprimez votre talent de menuisier en ornant votre ville d'un intérieur digne de ce nom grâce à cette machine. Créez une ambiance chaleureuse avec des meubles et des décorations en bois. Elle est déblocable au niveau 40 du [métier de bûcheron](les-metiers.md).
 
 {% embed url="https://www.youtube.com/watch?index=1&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=DQan4FHVdeM" %}
 **Tuto : Créer et gérer votre propre ville sur Evolucraft**
@@ -23,7 +23,7 @@ Sur le serveur Evolucraft, voici les machines disponibles :
 * Laissez libre cours à votre créativité en fabriquant des statues uniques, prêtes à être vendues chez le tailleur de pierre présent au <mark style="color:green;">**`/spawn`**</mark>.
 * &#x20;Notez que chaque joueur est limité à deux tailleuses de pierre.
 * Les statues sont fabriquées à partir de matériaux provenant des donjons et des ressources classiques.
-* La Tailleuse en pierre est récupérable à partir du niveau 45 forgemage.
+* La Tailleuse en pierre est récupérable à partir du niveau 45 du [métier de forgemage](les-metiers.md).
 
 {% embed url="https://www.youtube.com/watch?index=2&list=PL1QLnkRl9WVyR0eGUtFoTo8a9MBJHBFwa&v=xhcQDkb9DuA" %}
 **Tuto : Comment gagner de l'argent sur Evolucraft**
