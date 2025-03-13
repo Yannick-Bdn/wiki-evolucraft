@@ -91,7 +91,8 @@ Le reste des commandes liées au Ville est disponible dans la section [créer un
 * <mark style="color:green;">**/quest**</mark> : Ouvre le menu des différentes quêtes (histoire, tutoriel et parchemins).
 * <mark style="color:green;">**/daniel**</mark> : Permet d’acheter l'épuisette nécessaire pour récupérer les insectes.
 * <mark style="color:green;">**/dragon**</mark> : Permet d’échanger des objets en lien avec les dragons présents dans les donjons.
-* <mark style="color:green;">**/donjon**</mark> : Permet d'accéder aux différentes récompenses des donjons.
+* <mark style="color:green;">**/donjon [Type] [Places] [Votre_Prix] [Classe Recherchée]**</mark> : Permet de faire de la pub pour le portail vers le donjon que vous avez trouvé.
+* <mark style="color:green;">**/donjon_reward**</mark> : Permet d'accéder aux différentes récompenses des donjons.
 * <mark style="color:green;">**/rangs**</mark> : Affiche les différents rangs disponibles.
 * <mark style="color:green;">**/abo**</mark> : Gère les avantages de l'abonnement premium (uniquement pour ceux qui l'ont acheté).
 * <mark style="color:green;">**/jobs**</mark> : Gère les métiers du serveur.
